@@ -40,3 +40,6 @@
 *.rg
 *.srg
 *.txt
+
+# gradle stuff
+.gradle
