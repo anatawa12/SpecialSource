@@ -8,14 +8,14 @@
         <version>9</version>
     </parent>
 
-    <groupId>net.md-5</groupId>
-    <artifactId>SpecialSource</artifactId>
+    <groupId>com.anatawa12.</groupId>
+    <artifactId>forge</artifactId>
     <version>1.11.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>SpecialSource</name>
     <description>A jar compare and renaming engine designed for comparing and remapping 2 jars of differnent obfuscation mappings. Can also be useful for reobfuscation.</description>
-    <url>https://github.com/md-5/SpecialSource</url>
+    <url>https://github.com/anatawa12/SpecialSource</url>
     <inceptionYear>2012</inceptionYear>
     <licenses>
         <license>
@@ -26,13 +26,13 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:md-5/SpecialSource.git</connection>
-        <developerConnection>scm:git:git@github.com:md-5/SpecialSource.git</developerConnection>
-        <url>git@github.com:md-5/SpecialSource.git</url>
+        <connection>scm:git:git@github.com:anatawa12/SpecialSource.git</connection>
+        <developerConnection>scm:git:git@github.com:anatawa12/SpecialSource.git</developerConnection>
+        <url>git@github.com:anatawa12/SpecialSource.git</url>
     </scm>
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/md-5/SpecialSource/issues</url>
+        <url>https://github.com/anatawa12/SpecialSource/issues</url>
     </issueManagement>
 
     <properties>
